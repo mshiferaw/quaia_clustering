@@ -1,2 +1,4 @@
 data/quaia_G20.5.fits filter=lfs diff=lfs merge=lfs -text
 data/randoms/ filter=lfs diff=lfs merge=lfs -text
+data/randoms/random_G20.0_10x.fits filter=lfs diff=lfs merge=lfs -text
+data/randoms/random_G20.5_10x.fits filter=lfs diff=lfs merge=lfs -text
